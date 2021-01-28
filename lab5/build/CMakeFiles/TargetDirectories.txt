@@ -1,3 +1,0 @@
-C:/Users/irycz/lab5_ZuzannaGawrys/build/CMakeFiles/output.dir
-C:/Users/irycz/lab5_ZuzannaGawrys/build/CMakeFiles/edit_cache.dir
-C:/Users/irycz/lab5_ZuzannaGawrys/build/CMakeFiles/rebuild_cache.dir
